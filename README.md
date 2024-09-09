@@ -1,5 +1,5 @@
 #shiva Hospital
-Discover our commitment to nurturing a love for indoor sports and building a supportive community of dedicated athletes. Through expert guidance and state-of-the-art facilities, we empower individuals to excel and reach their athletic aspirations. Join us on the journey to unlock your full potential in indoor sports.
+The Shiva Hospital website offers a seamless, free gateway to essential healthcare services, empowering the community with easy access to information and appointment scheduling. It combines user-friendly design with multilingual support to ensure that everyone can benefit from its resources.
 
 # Project Details
 1. Project Demo URL: https://mystoragevault.z13.web.core.windows.net/
@@ -7,10 +7,9 @@ Discover our commitment to nurturing a love for indoor sports and building a sup
 3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
 4. Industry:shiva Hospital - Healthcare
 # Roles and responsibilities
-1. Tushar Ray (project management) :Manages the web development project.
-2. Shreya Chittimalla (Deployment) :Deployment and maintenance of project infrastructure.
-3. Anupama Kunnil (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions
-4. Nikhil (Documentation) :Responsible for managing the documentation process.
+1. sai kiran patil ramaiahgari (project management) :Manages the web development project.
+2. sai pavan mukkapally(Deployment) :Deployment and maintenance of project infrastructure.
+3. vishweshwar korivi (Images, logos and chat bot questions) :Responsible for image searching, logo creation and chat bot questions.
 # Azure services used:
 1. Azure blob storage
 2. Storage account
@@ -78,4 +77,9 @@ Here I am attaching the final working website's screenshot for the reference.
 ![contact page](https://github.com/kbjtushar/victory-vault/assets/161484157/3ae8ede2-15e0-43d2-a1de-8235b50dcf6a)
 
 # Final Project Statement:
-Inspiring athletes to reach their full potential through state-of-the-art facilities, expert coaching, and comprehensive training programs. Join us to unlock your athletic excellence and become part of our thriving sports community.
+The Shiva Hospital website will provide a free, user-friendly platform that offers seamless access to healthcare services, appointment scheduling, and health education. Designed with multilingual support and accessibility features, it aims to serve and engage the entire community. This project embodies the hospital’s commitment to delivering compassionate, high-quality care to all.
+
+
+
+
+
