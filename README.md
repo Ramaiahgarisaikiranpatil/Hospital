@@ -2,10 +2,9 @@
 The Shiva Hospital website offers a seamless, free gateway to essential healthcare services, empowering the community with easy access to information and appointment scheduling. It combines user-friendly design with multilingual support to ensure that everyone can benefit from its resources.
 
 # Project Details
-1. Project Demo URL: https://mystoragevault.z13.web.core.windows.net/
-2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
-3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
-4. Industry:shiva Hospital - Healthcare
+1. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
+2. GitHub Repository URL: https://github.com/Ramaiahgarisaikiranpatil/Hospital.git
+3. Industry:shiva Hospital - Healthcare
 # Roles and responsibilities
 1. sai kiran patil ramaiahgari (project management) :Manages the web development project.
 2. sai pavan mukkapally(Deployment) :Deployment and maintenance of project infrastructure.
