@@ -1,8 +1,9 @@
++\
 #shiva Hospital
 The Shiva Hospital website offers a seamless, free gateway to essential healthcare services, empowering the community with easy access to information and appointment scheduling. It combines user-friendly design with multilingual support to ensure that everyone can benefit from its resources.
 
 # Project Details
-1. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
+1. Demo Video URL:
 2. GitHub Repository URL: https://github.com/Ramaiahgarisaikiranpatil/Hospital.git
 3. Industry:shiva Hospital - Healthcare
 # Roles and responsibilities
