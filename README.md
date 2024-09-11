@@ -32,48 +32,28 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 # Storage Account
 - ![storage account ss](./gitimages/storageaccount.png)
 
-# Static website
-- ![
 
 # Container
 ![container ss](./gitimages/container.png)
 
-# Backup vault
-![backup vault](https://github.com/kbjtushar/victory-vault/assets/161484157/e56b7a6e-cf95-486a-a5aa-3c026f4180ad)
+# resourcegroup
+![resourcegroup ss](./gitimages/resourcegroup.png)
 
-# Role assignment
-![role assignment](https://github.com/kbjtushar/victory-vault/assets/161484157/c54ab63f-4312-4da5-b539-6238efd5e78e)
+# Iam
+![IAM SS](./gitimages/IAM.png)
 
-# Backup policy
-![backup policy](https://github.com/kbjtushar/victory-vault/assets/161484157/68ec0412-5147-4a88-8b5d-20a31b409d5a)
+# uploadingexcelsheet
+![uploadingexcelsheet SS](./gitimages/uploadingexcelsheet.png)
 
-# Azure Bot
-![azure bot](https://github.com/kbjtushar/victory-vault/assets/161484157/47d6968c-91cd-4e87-b523-2dc2e430e69d)
+# creatingabot
+![creatingabot SS](./gitimages/creatingabot.png)
+
+# testingchatbot
+![testingchatbot SS](./gitimages/testingchatbot.png)
 
 # Test in web chat
-![test in webchat](https://github.com/kbjtushar/victory-vault/assets/161484157/9219a2df-5b27-426a-9fdb-4cad13cc2be6)
+![testingchatbotinwebsite SS](./gitimages/testingchatbotinwebsite.png)
 
-# Resource visualizer
-![resource visualizer](https://github.com/kbjtushar/victory-vault/assets/161484157/9ae82a6f-3e6e-4a8c-945e-0a6bc8ef47ed)
-
-# Description
-Here I am attaching the final working website's screenshot for the reference.
-
-# Working Live Project Display:
-# Home page
-![home](https://github.com/kbjtushar/victory-vault/assets/161484157/f8fc6c8a-5392-4c4c-b8af-3a07a631f7af)
-
-# History
-![history](https://github.com/kbjtushar/victory-vault/assets/161484157/91758bdf-8954-48c7-9f38-d15d1345a117)
-
-# facilities page
-![facilities page](https://github.com/kbjtushar/victory-vault/assets/161484157/23f633c8-bb4d-4006-b356-a78d96ca7bb7)
-
-# Sports page
-![sports page](https://github.com/kbjtushar/victory-vault/assets/161484157/edc7c16d-27eb-463b-a212-779fd165d9aa)
-
-# Contact page
-![contact page](https://github.com/kbjtushar/victory-vault/assets/161484157/3ae8ede2-15e0-43d2-a1de-8235b50dcf6a)
 
 # Final Project Statement:
 The Shiva Hospital website will provide a free, user-friendly platform that offers seamless access to healthcare services, appointment scheduling, and health education. Designed with multilingual support and accessibility features, it aims to serve and engage the entire community. This project embodies the hospital’s commitment to delivering compassionate, high-quality care to all.
