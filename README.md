@@ -30,13 +30,13 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 
 # Screenshot’s:
 # Storage Account
-- ![storage account ss](./gitimages./storageaccount.png)
+- ![storage account ss](./gitimages/storageaccount.png)
 
 # Static website
 github imGES/Screenshot 2024-09-09 214331.png
 
 # Container
-![container ss](.\gitimages\container.png)
+![container ss](./gitimages/container.png)
 
 # Backup vault
 ![backup vault](https://github.com/kbjtushar/victory-vault/assets/161484157/e56b7a6e-cf95-486a-a5aa-3c026f4180ad)
