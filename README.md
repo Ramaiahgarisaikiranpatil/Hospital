@@ -4,8 +4,9 @@ The Shiva Hospital website offers a seamless, free gateway to essential healthca
 
 # Project Details
 1. Demo Video URL:https://youtu.be/ODEvHifwt3U?si=32vbp_9xIgikfGTd
-2. GitHub Repository URL: https://github.com/Ramaiahgarisaikiranpatil/Hospital.git
-3. Industry:shiva Hospital - Healthcare
+2. demo website URL:https://bhai.z31.web.core.windows.net/
+3. GitHub Repository URL: https://github.com/Ramaiahgarisaikiranpatil/Hospital.git
+4. Industry:shiva Hospital - Healthcare
 # Roles and responsibilities
 1. sai kiran patil ramaiahgari (project management) :Manages the web development project.
 2. sai pavan mukkapally(Deployment) :Deployment and maintenance of project infrastructure.
